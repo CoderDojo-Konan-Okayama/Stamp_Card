@@ -87,7 +87,7 @@ $mysqli = new mysqli('Your_Server_Host', 'User_Name', 'Pass_Word', 'Data_Base_Na
 
 是非是非！！
 
-**Isuu も大歓迎！！**
+**Issue も大歓迎！！**
 
 とか言っても誰もくれないし、だれもこのプログラム使わないだろう。
 
